@@ -165,4 +165,9 @@ h4{
     margin: 15px auto;
     border-radius: 12px;
     max-width: 300px;
+} 
+@media (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
 }
